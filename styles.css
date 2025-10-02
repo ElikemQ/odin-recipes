@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+
+#heading {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 30px;
+    color: #0c233a;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+
+#list {
+    padding: 24x;
+    margin: 8px;
+    text-align: center;
+}
+
+
+
+a {
+    color: #3498db;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 8px auto;
+    border: 2px solid ;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
